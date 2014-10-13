@@ -262,7 +262,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background: #f2f2f2 url('http://bananafish.in/files/static/bodypng.png');
 }
 input,
 button,
@@ -4464,7 +4464,7 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: #7a5ada;
 }
 .jumbotron h1 {
   line-height: 1;
